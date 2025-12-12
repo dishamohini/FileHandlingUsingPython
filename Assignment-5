@@ -1,0 +1,18 @@
+1. Create a pie chart using matplotlib to represent the following data:
+Language	Popularity
+Python 	30
+C++	25
+C	20
+Java 	15
+
+2. Create a plot using matplotlib to represent the following data:
+Food 	Calories 	Potassium 	fat
+Soya	250	40	8
+Banana 	130 	55 	5 
+Egg	140 	20 	3
+Tofu	20	40	1
+
+3. Given a CSV file named "sales.csv" containing sales data for a company. Each row represents a sale, with columns 'Date', 'Product', 'Quantity', and 'Revenue'. 
+Write Python code to perform the following tasks:
+•Load the data from the CSV file into a Pandas DataFrame.
+•Display the first 5 and last 5 rows of the DataFrame.                                      
